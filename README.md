@@ -9,7 +9,7 @@ You can find the Terminal app in your Applications folder or LaunchPad. Once ope
 ## XCode Setup
 You can install XCode following these [instructions](https://www.freecodecamp.org/news/how-to-download-and-install-xcode/)
 ## Git Setup
-You can install Git using these [insructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+You can install Git using these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 ## Python Setup
 You can install Python using these [instructions](https://realpython.com/installing-python/#how-to-install-from-the-official-installer)
 ## HuggingFace Hub Setup
