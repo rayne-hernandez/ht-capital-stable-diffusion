@@ -7,7 +7,7 @@ You will need XCode, Git, Python and HuggingFace setup on your machine to run th
 ## Terminal
 You can find the Terminal app in your Applications folder or LaunchPad. Once open, you can use the terminal to complete the following setup.
 ## XCode Setup
-You can install XCode following these [instructions](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
+You can install XCode following these [instructions](https://www.freecodecamp.org/news/how-to-download-and-install-xcode/)
 ## Git Setup
 You can install Git using these [insructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 ## Python Setup
