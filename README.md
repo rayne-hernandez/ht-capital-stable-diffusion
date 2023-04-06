@@ -23,7 +23,7 @@ pip install virtualenv
 ## Creating a Github Account to clone this repo
 First you will need a GitHub account. Follow these instructions on setting up a [Github Account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#part-1-configuring-your-github-account).
 
-Next you will need to configure Git with your new Github account. Follow these instructions on [Authenticating with Github from Git](https://docs.github.com/en/get-started/quickstart/set-up-git#authenticating-with-github-from-git). We recommend authenticating over HTTPS option.
+Next you will need to configure Git with your new Github account. Follow these instructions on [Authenticating with Github from Git](https://docs.github.com/en/get-started/quickstart/set-up-git#authenticating-with-github-from-git). We recommend authenticating using the HTTPS option which can be configured using these [instructions](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
 
 If your Git is configured with Github you will be able to clone this repo from your Terminal. Just run
 ```
@@ -51,7 +51,7 @@ Run the `download_helper.py` file to download the model weights for Stable Diffu
 ```
 python download_helper.py
 ```
-You will download model weights, this may 15-45 minutes depending on your internet speed. You will see a new folder created called `out` containing the downloaded model
+You will download model weights, this may take 15-45 minutes depending on your download speed. You will see a new folder created called `out` containing the downloaded model
 
 ## Run Stable Diffusion
 You can now generate images using the following command. Change your prompt by changing the `--prompt` option to whatever you want. The current example is "a photo of an astronaut riding a horse on mars". Set `--seed` to any number to get a different image for the same prompt.
